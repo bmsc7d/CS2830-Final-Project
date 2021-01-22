@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created by Professor Wergeles for CS2830 at the University of Missouri -->
+
+<pictures>
+    <picture>
+        <title>Rocky Mountain</title>
+    </picture>
+    <picture>
+        <title>Arches</title>
+    </picture>
+    <picture>
+        <title>Sand Dunes</title>
+    </picture>
+    
+<!--
+    <picture>
+        <title>Rocky Mountain 4</title>
+        <location>Pictures/video.MOV</location>
+    </picture>
+    <picture>
+        <title>Arch</title>
+        <location>Pictures/image1.jpeg</location>
+    </picture>
+    <picture>
+        <title>Arch 2</title>
+        <location>Pictures/image2.jpeg</location>
+    </picture>
+    <picture>
+        <title>Arch 3</title>
+        <location>Pictures/image3.jpeg</location>
+    </picture>
+    <picture>
+    	<title>Sand Dune</title>
+    	<location>Pictures/image7.jpg</location>
+    </picture>
+   <picture>
+    	<title>Sand Dune 2</title>
+    	<location>Pictures/image8.jpg</location>
+    </picture>
+    <picture>
+    	<title>Sand Dune 3</title>
+    	<location>Pictures/image9.JPG</location>
+    </picture>
+-->
+</pictures>
